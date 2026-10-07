@@ -33,6 +33,7 @@ The dashboard covers:
 ## 📁 Project Structure
 
 
+```text
 StreamIQ/
 ├── data/
 ├── powerbi/

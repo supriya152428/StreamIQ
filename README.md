@@ -5,7 +5,7 @@ An end-to-end Data Analytics project analyzing Netflix Movies and TV Shows to un
 ## 🛠️ Tech Stack
 
 - Excel
-- Python / Pandas / NumPy
+- Python / Pandas 
 - PostgreSQL / SQL
 - Power BI
 
